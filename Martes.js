@@ -1,3 +1,2 @@
-hoy es martes   
+hoy es martes, (lunes)  
 
-hoy es lunes
